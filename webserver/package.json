@@ -1,0 +1,17 @@
+{
+  "name": "ki",
+  "version": "1.0.0",
+  "description": "this is a simple web server",
+  "main": "(webserver.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webserver"
+  ],
+  "author": "Boying Ashley Liu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
